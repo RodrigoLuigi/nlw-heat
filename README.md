@@ -5,5 +5,6 @@
 
 #  <i style="color:orange"> **Next Level Week 2021**</i>
 
-- ### **Stage 1 - Complete**
-- ### **Stage 2 - process...**
+- ### **Stage 1 - Back-End - Complete**
+- ### **Stage 3 - Front-End Web - Complete**
+- ### **Stage 2 - Front-End Mobile - process...**
