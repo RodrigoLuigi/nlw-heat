@@ -9,3 +9,5 @@
 - ### **Stage 3 - Front-End Web - Complete**
 - ### **Stage 2 - Front-End Mobile - Complete**
 - ### **Stage 4 - Micro Services - process...**
+- ### **Stage 2 - Front-End Web - Complete**
+- ### **Stage 3 - Front-End Mobile - process...**
